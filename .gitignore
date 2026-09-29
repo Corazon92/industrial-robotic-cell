@@ -1,0 +1,14 @@
+# Industrial / Siemens / TIA Portal
+*.ap*
+*.zap*
+*.al*
+*.log
+*.tmp
+*.bak
+~$*
+Thumbs.db
+.DS_Store
+
+# Local/network configuration exports
+*network*
+*diagnostic*
